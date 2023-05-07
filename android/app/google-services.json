@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687040350435",
+    "project_id": "dairee-e",
+    "storage_bucket": "dairee-e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687040350435:android:7a2eea8fdca95424419dd6",
+        "android_client_info": {
+          "package_name": "mr.anonymous.dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687040350435-sag1k3r78hgbf8506nsd4ocdltkrfs2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kHJ4whBxmeIpJ3gh9aRlaZqmWNQQ-To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687040350435-ksn70re8ff5o0gclrupni5ilknj896h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
