@@ -1,4 +1,4 @@
-package com.dairy;
+package mr.anonymous.dairy;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

@@ -1,10 +1,10 @@
-package com.dairy;
+package mr.anonymous.dairy;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint;
 import com.facebook.react.defaults.DefaultReactActivityDelegate;
-
+import android.os.Bundle;
 public class MainActivity extends ReactActivity {
 
   /**
@@ -13,7 +13,11 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "dairy";
+    return "Dairy";
+  }
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(null);
   }
 
   /**
